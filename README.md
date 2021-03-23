@@ -1,11 +1,8 @@
 # Brain Dump
 
-## About
-
 _A place to gather thoughts or useful links_
 
 ### Content
-- [About](#about)
 - [Agile](#agile)
 - [Remote Working](#remote-working)
 - [Software Engineering](#software-engineering)
@@ -19,6 +16,7 @@ _A place to gather thoughts or useful links_
 - [Surviving your Agile Transition](https://youtu.be/UQOmGiv7rUk) - J.B. Rainsberger on Agile Transformation. Agile should be lightweight, but is interpreted in many ways
 
 ## Remote Working
+
 - [Shape up](https://basecamp.com/shapeup) - Basecamp describe their way of working (methodology)
 - [Remote](https://basecamp.com/books/remote) - Basecamp describe what they've learnt about operating as a fully remote company
 
