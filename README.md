@@ -42,7 +42,7 @@ _A place to gather thoughts or useful links_
 - [Make Your Code Reviewer Fall in Love with You
 ](https://mtlynch.io/code-review-love/) - how you as the author of the change can make life easier for reviewers
 
-### Quotes
+### Wisdom
 > Junior programmer's bookshelf: 90% APIs and programming languages; Senior programmer's bookshelf: 80% applied psychology. - [J.B. Rainsberger](https://twitter.com/jbrains/status/616228270841962496?s=20)
 
 > The only proper justification for refactoring is to reduce the volatility in the marginal cost of a feature (i.e. reduce the cost of future features by actively addressing accidental complexity) - [J.B. Rainsberger (paraphrased)](https://www.youtube.com/watch?v=UQOmGiv7rUk)
