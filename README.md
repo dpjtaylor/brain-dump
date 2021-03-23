@@ -1,4 +1,4 @@
-# brain-dump
+# Brain Dump
 
 ## About
 
