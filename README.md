@@ -45,9 +45,17 @@ _A place to gather thoughts or useful links_
 
 > The only proper justification for refactoring is to reduce the volatility in the marginal cost of a feature (i.e. reduce the cost of future features by actively addressing accidental complexity) - [J.B. Rainsberger (paraphrased)](https://www.youtube.com/watch?v=UQOmGiv7rUk)
 
-> I conclude that there are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult. - Simplicity is Hard -[Out of the Tar Pit (quoted from Hoare 1980 Turing Speech](https://blog.royalsloth.eu/articles/outOfTheTarPit.pdf)
+> I conclude that there are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult. - Simplicity is Hard -[Out of the Tar Pit (quoted from Hoare 1980 Turing Speech)](https://blog.royalsloth.eu/articles/outOfTheTarPit.pdf)
 
-> Any organization that designs a system (defined more broadly here than just information systems) will inevitably produce a design whose structure is a copy of the organization's communication structure - Conway's Law
+> Those who want really reliable software will discover that they must find means of avoiding the majority of bugs to start with. - [Out of the Tar Pit (quoted from Dijkstra)](https://blog.royalsloth.eu/articles/outOfTheTarPit.pdf)
+
+> Testing is hopelessly inadequate....(it) can be used very effecttively to show the presence of bugs but never to show their ab- sence. - [Out of the Tar Pit (quoted from Dijkstra)](https://blog.royalsloth.eu/articles/outOfTheTarPit.pdf)
+
+> Our response to mistakes should be to look for ways that we can avoid making them, not to blame the nature of things. - [Out of the Tar Pit (quoted from O’Keefe)](https://blog.royalsloth.eu/articles/outOfTheTarPit.pdf)
+
+> Given a stark choice between investment in testing and investment in simplicity, the latter may often be the better choice because it will facilitate all future attempts to understand the system — attempts of any kind. - [Out of the Tar Pit](https://blog.royalsloth.eu/articles/outOfTheTarPit.pdf)
+
+> Any organization that designs a system (defined more broadly here than just information systems) will inevitably produce a design whose structure is a copy of the organization's communication structure - [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law)
 
 ## Testing
 - [Integrated Tests are a Scam](https://vimeo.com/80533536) - J.B. Rainsberger on Integration tests. TL;DR: Integration tests are slow, brittle, difficult in terms of identifying the point of failure, combinatory in nature (explosion of tests to cover all combinations); isolated tests are fast, resilient, easy to understand and linear in nature (typically one per clasas)
